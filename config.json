@@ -1,0 +1,22 @@
+{
+    "selectors": {
+      "category_name": "#js-product-page > div.item-pg__breadcrumbs.layout-center > div.breadcrumbs.breadcrumbs_border > ul > li:nth-child(2) > a",
+      "subcategory_selector": "#js-product-page > div.item-pg__breadcrumbs.layout-center > div.breadcrumbs.breadcrumbs_border > ul > li:nth-child(3) > a",
+      "name": "#js-product-page > div.item-pg__heading.layout-center > h1 > span",
+      "article": "#js-product-page > div.item-pg__product.layout-center > div > div > div.b-row-ip__col-info > div.b-row-ip__col-descr > div > div.pd-descr__artikul.grey.ds-hide.s-product-sku > span",
+      "brand": "#item-tabs > div > div > div.item-tabs__content > ul > li.item-tabs__content-i.active > div > div > div > table > tbody > tr:nth-child(2) > td:nth-child(2)",
+      "color": "#item-tabs > div > div > div.item-tabs__content > ul > li.item-tabs__content-i.active > div > div > div > table > tbody > tr:nth-child(1) > td:nth-child(2) > div > div > div.color-text__text",
+      "country": "#item-tabs > div > div > div.item-tabs__content > ul > li.item-tabs__content-i.active > div > div > div > table > tbody > tr:nth-child(2) > td:nth-child(2)",
+      "price": "#cart-form > div.pd-cart__main.pd-cart__main_custom > div.pd-cart__price-wrapper.pd-cart__price-wrapper_custom > div.pd-cart__price > div > div",
+      "images": "#product-image"
+    },
+    "categoryes": [
+      "komplektuyushchie/sliv-pereliv", "komplektuyushchie/leyka-dlya-gigienicheskogo-dusha",
+                    "komplektuyushchie/leyka-dushevaya", "komplektuyushchie/soedinenie-dlya-dusha", "komplektuyushchie/shlang-dlya-dusha",
+                    "komplektuyushchie/donnyy-klapan", "komplektuyushchie/sifon-dlya-rakoviny", "komplektuyushchie/dushevoy-garnitur",
+                    "komplektuyushchie/stoyka-dlya-dusha", "komplektuyushchie/dushevaya-leyka", "komplektuyushchie/verkhniy-dush", "unitazy",
+                    "nabory-3-v-1", "dushevye-sistemy", "smesiteli/dlya-kukhni", "smesiteli/dlya-rakoviny", "smesiteli/dlya-vanny",
+                    "smesiteli/gigienicheskie"
+    ]
+  }
+  
